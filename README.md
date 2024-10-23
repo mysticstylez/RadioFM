@@ -11,7 +11,7 @@ each radio station.
 
 https://discord.gg/zqkV9RHjHb
 
-Tutorial:
+Demo:
 https://youtu.be/9Fq1Clfkb7c?si=aPRXvsV1MFkXuVCO
 
 This package contains no license. Please do not redistribute modified versions or use for commercial use by itself. You're welcome to use in your projects or commercial game. Thank you.
