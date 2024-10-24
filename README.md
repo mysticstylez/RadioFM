@@ -1,5 +1,5 @@
 # RadioFM
-Thank you for downloading RadioFM! Please visit the Ghostdog Studio Discord to access support channels.
+Thank you for downloading RadioFM for Unity 3d! Please visit the Ghostdog Studio Discord to access support channels.
 
 The Radio FM system simulates a real-world radio experience. Players can toggle the radio
 on and off, switch between radio stations, and play songs. It manages the playback of
