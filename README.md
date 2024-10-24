@@ -14,7 +14,7 @@ https://discord.gg/zqkV9RHjHb
 Demo:
 https://youtu.be/9Fq1Clfkb7c?si=aPRXvsV1MFkXuVCO
 
-MIT license - You are welcome to use this for personal projects or commercial use. Please do not redistribute modified versions or use for commercial use by itself. 
+MIT license - You are welcome to use this for personal projects or commercial use. Please do not redistribute modified versions for use for commercial use by itself. 
 
 Versions:
 
